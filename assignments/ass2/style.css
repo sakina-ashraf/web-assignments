@@ -1,0 +1,54 @@
+fieldset{
+    width: 60%;
+    margin-left: 250px;
+    
+}
+
+.image{
+    margin-left: 30%;
+    width: 400px;
+
+}
+
+.heading{
+    text-align: center;
+    color: rgb(129, 19, 231);
+    margin-bottom: 20px;
+    margin-top: -45px;
+    
+}
+
+table{
+    background-color: rgb(129, 19, 231);
+    color: whitesmoke;
+    font-size: 18px;
+}
+
+.tick{
+    width: 200px;
+    height: 200px;
+    margin-top: 5%;
+    margin-left: 42%;
+    
+}
+h2{
+    margin: 0;
+}
+
+.thank{
+    text-align: center;
+    color: rgb(7, 175, 7);
+
+}
+.para{
+    text-align: center;
+    color: rgb(129, 19, 231);
+    font-size: 23px;
+    
+}
+
+.back{
+    margin-left: 46%;
+    font-size: 25px;
+     color:  rgb(95, 30, 156);
+}
